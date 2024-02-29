@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning .NET
 - 📫 How to reach me: alliyevelton2@gmail.com
 <!--
 **aliyevelton/aliyevelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
